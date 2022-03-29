@@ -1,0 +1,5 @@
+streamlit
+pickle-mixin
+pandas
+sklearn
+tensorflow-cpu
